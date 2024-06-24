@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sadique.hzb@gmail.com**
 
-- ⚡ Fun fact **I am Tenacious guy**
+- ⚡ **I am Tenacious guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
