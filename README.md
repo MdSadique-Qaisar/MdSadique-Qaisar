@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadique Qaisar</h1>
 <h3 align="center">MTech graduate from NIT Jamshedpur with a strong foundation in Python, SQL, and predictive analytics, along with hands-on experience in Machine Learning, Deep Learning, data cleaning, feature engineering, and model development.Actively seeking a full-time opportunity in Data Science.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"›
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsadique-qaisar&label=Profile%20views&color=0e75b6&style=flat" alt="mdsadique-qaisar" /> </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"› -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsadique-qaisar&label=Profile%20views&color=0e75b6&style=flat" alt="mdsadique-qaisar" /> </p> -->
 
 
 - 💬 Ask me about **Python, Pandas, NumPy, Matplotlib, Seaborn, PyTorch, TensorFlow, Scikit-learn, OpenCV, FastAPI, Machine Learning, Deep Learning, Computer Vision, Statistical Analysis, Data Visualization**
